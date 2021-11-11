@@ -1,0 +1,142 @@
+{
+  "status": 200,
+  "data": {
+    "categories": [
+      {
+        "category_id": 11044258,
+        "category_display_name": "Elektronik",
+        "category_image": "https:\/\/cf.shopee.co.id\/file\/02577b74fe168f6dabd57eab9c2f8f21"
+      },
+      {
+        "category_id": 11043451,
+        "category_display_name": "Makanan & Minuman",
+        "category_image": "https:\/\/cf.shopee.co.id\/file\/b912e9726dc8cb5e9447a7738a68479c"
+      },
+      {
+        "category_id": 11044364,
+        "category_display_name": "Komputer & Aksesoris",
+        "category_image": "https:\/\/cf.shopee.co.id\/file\/1c2d1181b1f5306ce2c41803617e7446"
+      },
+      {
+        "category_id": 11043145,
+        "category_display_name": "Perawatan & Kecantikan",
+        "category_image": "https:\/\/cf.shopee.co.id\/file\/fd68904a717156196d809cab264a4f4e"
+      },
+      {
+        "category_id": 11044458,
+        "category_display_name": "Handphone & Aksesoris",
+        "category_image": "https:\/\/cf.shopee.co.id\/file\/5bbc23650006cd766b8838f55d53aac7"
+      },
+      {
+        "category_id": 11043778,
+        "category_display_name": "Perlengkapan Rumah",
+        "category_image": "https:\/\/cf.shopee.co.id\/file\/962e5544f481d1032bd1dfd3137c4355"
+      },
+      {
+        "category_id": 11042849,
+        "category_display_name": "Pakaian Pria",
+        "category_image": "https:\/\/cf.shopee.co.id\/file\/04dba508f1ad19629518defb94999ef9"
+      },
+      {
+        "category_id": 11042745,
+        "category_display_name": "Pakaian Wanita",
+        "category_image": "https:\/\/cf.shopee.co.id\/file\/23918f8dacba18c938fe42d13aa31b57"
+      },
+      {
+        "category_id": 11042985,
+        "category_display_name": "Sepatu Pria",
+        "category_image": "https:\/\/cf.shopee.co.id\/file\/8465b33b83d571b2dbac57481622002e"
+      },
+      {
+        "category_id": 11042684,
+        "category_display_name": "Fashion Muslim",
+        "category_image": "https:\/\/cf.shopee.co.id\/file\/b98756cdb31eabe3d7664599e24ccc29"
+      },
+      {
+        "category_id": 11043011,
+        "category_display_name": "Tas Pria",
+        "category_image": "https:\/\/cf.shopee.co.id\/file\/7dea4bb643bfb14ac71e46cd4e5740ad"
+      },
+      {
+        "category_id": 11043031,
+        "category_display_name": "Fashion Bayi & Anak",
+        "category_image": "https:\/\/cf.shopee.co.id\/file\/9251edd6d6dd98855ff5a99497835d9c"
+      },
+      {
+        "category_id": 11042921,
+        "category_display_name": "Aksesoris Fashion",
+        "category_image": "https:\/\/cf.shopee.co.id\/file\/1f18bdfe73df39c66e7326b0a3e08e87"
+      },
+      {
+        "category_id": 11043350,
+        "category_display_name": "Ibu & Bayi",
+        "category_image": "https:\/\/cf.shopee.co.id\/file\/c808f51e19db257047e506cecab648f3"
+      },
+      {
+        "category_id": 11042900,
+        "category_display_name": "Jam Tangan",
+        "category_image": "https:\/\/cf.shopee.co.id\/file\/dc4d827babe0d4215dfcf287dd277507"
+      },
+      {
+        "category_id": 11042604,
+        "category_display_name": "Sepatu Wanita",
+        "category_image": "https:\/\/cf.shopee.co.id\/file\/3e5c1658eb48c7bad36b8a431d8af827"
+      },
+      {
+        "category_id": 11043279,
+        "category_display_name": "Kesehatan",
+        "category_image": "https:\/\/cf.shopee.co.id\/file\/f9490654e54dc56e308cda4f6d86e840"
+      },
+      {
+        "category_id": 11042642,
+        "category_display_name": "Tas Wanita",
+        "category_image": "https:\/\/cf.shopee.co.id\/file\/bf4c3ac88a7d12b29a5d617ee0c63d9f"
+      },
+      {
+        "category_id": 11043572,
+        "category_display_name": "Hobi & Koleksi",
+        "category_image": "https:\/\/cf.shopee.co.id\/file\/61a7b80e42a3d272d170954c76ab84a7"
+      },
+      {
+        "category_id": 11043660,
+        "category_display_name": "Otomotif",
+        "category_image": "https:\/\/cf.shopee.co.id\/file\/27838b968afb76ca59dd8e8f57ece91f"
+      },
+      {
+        "category_id": 11043958,
+        "category_display_name": "Olahraga & Outdoor",
+        "category_image": "https:\/\/cf.shopee.co.id\/file\/e6c238608ce9278d644ec46dde529aa5"
+      },
+      {
+        "category_id": 11044225,
+        "category_display_name": "Souvenir & Pesta",
+        "category_image": "https:\/\/cf.shopee.co.id\/file\/5bc9fd14235a391a392f353e436cf6a2"
+      },
+      {
+        "category_id": 11044123,
+        "category_display_name": "Buku & Alat Tulis",
+        "category_image": "https:\/\/cf.shopee.co.id\/file\/998c7682fd5e7a3563b2ad00aaa4e6f3"
+      },
+      {
+        "category_id": 11044588,
+        "category_display_name": "Fotografi",
+        "category_image": "https:\/\/cf.shopee.co.id\/file\/9abe95c0c755968c5114f084ee11b8cb"
+      },
+      {
+        "category_id": 11044669,
+        "category_display_name": "Shopee Gifts",
+        "category_image": "https:\/\/cf.shopee.co.id\/file\/ca36168f476903644d9b61c9a2e8a730"
+      },
+      {
+        "category_id": 11044631,
+        "category_display_name": "Voucher",
+        "category_image": "https:\/\/cf.shopee.co.id\/file\/6e47e2193202b93490bc430ce6732c79"
+      },
+      {
+        "category_id": 11105951,
+        "category_display_name": "Deals Sekitarmu",
+        "category_image": "https:\/\/cf.shopee.co.id\/file\/da45661e16f32aca88a5e55cc34e5eed"
+      }
+    ]
+  }
+}

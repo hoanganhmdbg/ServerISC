@@ -1,0 +1,465 @@
+{
+  "status": 200,
+  "data": {
+    "is_cc_installment_payment_eligible": false,
+    "is_pre_order": false,
+    "discount": null,
+    "transparent_background_image": null,
+    "service_by_shopee_flag": null,
+    "welcome_package_info": null,
+    "images": [
+      "https:\/\/cf.shopee.co.id\/file\/983d88a6c31c00be404adab25cfcbb98"
+    ],
+    "is_slash_price_item": null,
+    "shopee_verified": false,
+    "preview_info": null,
+    "price_max": 493500,
+    "wholesale_tier_list": {},
+    "historical_sold": 3808,
+    "attributes": {},
+    "is_category_failed": false,
+    "has_group_buy_stock": false,
+    "item_rating": {
+      "rating_with_image": 105,
+      "rating_with_context": 135,
+      "rating_star": 4.947464,
+      "rating_5_star": 2096,
+      "rating_4_star": 65,
+      "rating_1_star": 3,
+      "rating_total": 2178,
+      "rating_3_star": 14,
+      "rating_2_star": 0
+    },
+    "has_lowest_price_guarantee": false,
+    "is_adult": false,
+    "group_buy_info": null,
+    "add_on_deal_info": null,
+    "brand": null,
+    "description": "Chip Higgs Domino ( Chip MD  - Lebih hoki dan Menang Banyak )\nAGEN RESMI DOMINO\n\nProses Via Nomor ID di ketik di fitur chat Shopee. ( Jangan di Catatan karena akan memperlambat proses pengiriman )\nNb. Dikirim berdasarkan ID ya. Tidak bisa cek nama dulu. \nWaktu Proses Hanya 1 Menit Saja apabila tepat mengikuti langkah pembelian.\n\nCara Order :\n1. Pilih produk & Nominal\n2. Klik Beli Sekarang\n3. Klik Checkout\n\n4. Pilih Jenis Pembayaran\n5. Buat Pesanan\n6. Lakukan Pembayaran\n7. Tunggu konfirmasi dari kami\n8. Done = Sudah di proses\n\nNB : Kami tidak bertanggungjawab atas kesalahan dalam pengiriman nomor ID.\n\nSetelah di proses Mohon dibantu untuk konfirmasi Pesanan setelah 5 jam Pembelian\nJangan lupa di Nilai Bintang 5 nya^^",
+    "normal_stock": 6996015,
+    "hashtag_list": null,
+    "price_min": 70500,
+    "cb_option": 0,
+    "makeups": null,
+    "liked_count": 11,
+    "coin_earn_label": null,
+    "shipping_icon_type": 0,
+    "can_use_wholesale": false,
+    "currency": "IDR",
+    "reason": null,
+    "models": [
+      {
+        "stock": 999078,
+        "sold": 880,
+        "model_id": 63445595483,
+        "extinfo": {
+          "has_shopee_promo": null,
+          "seller_promotion_refresh_time": 0,
+          "group_buy_info": null,
+          "seller_promotion_limit": null,
+          "tier_index": [
+            1
+          ],
+          "holiday_mode_old_stock": null
+        },
+        "name": "2B Ungu",
+        "status": 1,
+        "current_promotion_has_reserve_stock": false,
+        "item_id": 7276944562,
+        "price_stocks": [
+          {
+            "purchase_limit": null,
+            "end_time": null,
+            "model_id": null,
+            "shop_id": 66059111,
+            "start_time": null,
+            "stockout_time": null,
+            "promotion_type": 0,
+            "item_id": 7276944562,
+            "stock": 999078,
+            "promotion_id": 0,
+            "region": "ID",
+            "rebate": null,
+            "stock_breakdown_by_location": {},
+            "allocated_stock": null,
+            "price": 141000
+          }
+        ],
+        "promotion_id": 0,
+        "price_before_discount": 0,
+        "normal_stock": 999078,
+        "currency": "IDR",
+        "current_promotion_reserved_stock": 0,
+        "price": 141000
+      },
+      {
+        "stock": 999587,
+        "sold": 400,
+        "model_id": 63445595484,
+        "extinfo": {
+          "has_shopee_promo": null,
+          "seller_promotion_refresh_time": 0,
+          "group_buy_info": null,
+          "seller_promotion_limit": null,
+          "tier_index": [
+            2
+          ],
+          "holiday_mode_old_stock": null
+        },
+        "name": "3B Ungu",
+        "status": 1,
+        "current_promotion_has_reserve_stock": false,
+        "item_id": 7276944562,
+        "price_stocks": [
+          {
+            "purchase_limit": null,
+            "end_time": null,
+            "model_id": null,
+            "shop_id": 66059111,
+            "start_time": null,
+            "stockout_time": null,
+            "promotion_type": 0,
+            "item_id": 7276944562,
+            "stock": 999587,
+            "promotion_id": 0,
+            "region": "ID",
+            "rebate": null,
+            "stock_breakdown_by_location": {},
+            "allocated_stock": null,
+            "price": 211500
+          }
+        ],
+        "promotion_id": 0,
+        "price_before_discount": 0,
+        "normal_stock": 999587,
+        "currency": "IDR",
+        "current_promotion_reserved_stock": 0,
+        "price": 211500
+      },
+      {
+        "stock": 999861,
+        "sold": 133,
+        "model_id": 63445595485,
+        "extinfo": {
+          "has_shopee_promo": null,
+          "seller_promotion_refresh_time": 0,
+          "group_buy_info": null,
+          "seller_promotion_limit": null,
+          "tier_index": [
+            3
+          ],
+          "holiday_mode_old_stock": null
+        },
+        "name": "4B Ungu",
+        "status": 1,
+        "current_promotion_has_reserve_stock": false,
+        "item_id": 7276944562,
+        "price_stocks": [
+          {
+            "purchase_limit": null,
+            "end_time": null,
+            "model_id": null,
+            "shop_id": 66059111,
+            "start_time": null,
+            "stockout_time": null,
+            "promotion_type": 0,
+            "item_id": 7276944562,
+            "stock": 999861,
+            "promotion_id": 0,
+            "region": "ID",
+            "rebate": null,
+            "stock_breakdown_by_location": {},
+            "allocated_stock": null,
+            "price": 282000
+          }
+        ],
+        "promotion_id": 0,
+        "price_before_discount": 0,
+        "normal_stock": 999861,
+        "currency": "IDR",
+        "current_promotion_reserved_stock": 0,
+        "price": 282000
+      },
+      {
+        "stock": 997888,
+        "sold": 2018,
+        "model_id": 63445595486,
+        "extinfo": {
+          "has_shopee_promo": null,
+          "seller_promotion_refresh_time": 0,
+          "group_buy_info": null,
+          "seller_promotion_limit": null,
+          "tier_index": [
+            0
+          ],
+          "holiday_mode_old_stock": null
+        },
+        "name": "1B Ungu",
+        "status": 1,
+        "current_promotion_has_reserve_stock": false,
+        "item_id": 7276944562,
+        "price_stocks": [
+          {
+            "purchase_limit": null,
+            "end_time": null,
+            "model_id": null,
+            "shop_id": 66059111,
+            "start_time": null,
+            "stockout_time": 0,
+            "promotion_type": 0,
+            "item_id": 7276944562,
+            "stock": 997888,
+            "promotion_id": 0,
+            "region": "ID",
+            "rebate": null,
+            "stock_breakdown_by_location": {},
+            "allocated_stock": null,
+            "price": 70500
+          }
+        ],
+        "promotion_id": 0,
+        "price_before_discount": 0,
+        "normal_stock": 997888,
+        "currency": "IDR",
+        "current_promotion_reserved_stock": 0,
+        "price": 70500
+      },
+      {
+        "stock": 999715,
+        "sold": 273,
+        "model_id": 95062806747,
+        "extinfo": {
+          "has_shopee_promo": null,
+          "seller_promotion_refresh_time": 0,
+          "group_buy_info": null,
+          "seller_promotion_limit": null,
+          "tier_index": [
+            4
+          ],
+          "holiday_mode_old_stock": null
+        },
+        "name": "5B Ungu",
+        "status": 1,
+        "current_promotion_has_reserve_stock": false,
+        "item_id": 7276944562,
+        "price_stocks": [
+          {
+            "purchase_limit": null,
+            "end_time": null,
+            "model_id": null,
+            "shop_id": 66059111,
+            "start_time": null,
+            "stockout_time": null,
+            "promotion_type": 0,
+            "item_id": 7276944562,
+            "stock": 999715,
+            "promotion_id": 0,
+            "region": "ID",
+            "rebate": null,
+            "stock_breakdown_by_location": {},
+            "allocated_stock": null,
+            "price": 352500
+          }
+        ],
+        "promotion_id": 0,
+        "price_before_discount": 0,
+        "normal_stock": 999715,
+        "currency": "IDR",
+        "current_promotion_reserved_stock": 0,
+        "price": 352500
+      },
+      {
+        "stock": 999959,
+        "sold": 36,
+        "model_id": 95062806748,
+        "extinfo": {
+          "has_shopee_promo": null,
+          "seller_promotion_refresh_time": 0,
+          "group_buy_info": null,
+          "seller_promotion_limit": null,
+          "tier_index": [
+            5
+          ],
+          "holiday_mode_old_stock": null
+        },
+        "name": "6B Ungu",
+        "status": 1,
+        "current_promotion_has_reserve_stock": false,
+        "item_id": 7276944562,
+        "price_stocks": [
+          {
+            "purchase_limit": null,
+            "end_time": null,
+            "model_id": null,
+            "shop_id": 66059111,
+            "start_time": null,
+            "stockout_time": null,
+            "promotion_type": 0,
+            "item_id": 7276944562,
+            "stock": 999959,
+            "promotion_id": 0,
+            "region": "ID",
+            "rebate": null,
+            "stock_breakdown_by_location": {},
+            "allocated_stock": null,
+            "price": 423000
+          }
+        ],
+        "promotion_id": 0,
+        "price_before_discount": 0,
+        "normal_stock": 999959,
+        "currency": "IDR",
+        "current_promotion_reserved_stock": 0,
+        "price": 423000
+      },
+      {
+        "stock": 999927,
+        "sold": 68,
+        "model_id": 95062806749,
+        "extinfo": {
+          "has_shopee_promo": null,
+          "seller_promotion_refresh_time": 0,
+          "group_buy_info": null,
+          "seller_promotion_limit": null,
+          "tier_index": [
+            6
+          ],
+          "holiday_mode_old_stock": null
+        },
+        "name": "7B Ungu",
+        "status": 1,
+        "current_promotion_has_reserve_stock": false,
+        "item_id": 7276944562,
+        "price_stocks": [
+          {
+            "purchase_limit": null,
+            "end_time": null,
+            "model_id": null,
+            "shop_id": 66059111,
+            "start_time": null,
+            "stockout_time": null,
+            "promotion_type": 0,
+            "item_id": 7276944562,
+            "stock": 999927,
+            "promotion_id": 0,
+            "region": "ID",
+            "rebate": null,
+            "stock_breakdown_by_location": {},
+            "allocated_stock": null,
+            "price": 493500
+          }
+        ],
+        "promotion_id": 0,
+        "price_before_discount": 0,
+        "normal_stock": 999927,
+        "currency": "IDR",
+        "current_promotion_reserved_stock": 0,
+        "price": 493500
+      }
+    ],
+    "coin_info": {
+      "spend_cash_unit": 1,
+      "coin_earn_items": {}
+    },
+    "price_before_discount": 0,
+    "raw_discount": 0,
+    "stock": 6996015,
+    "condition": 1,
+    "cmt_count": 2178,
+    "price_max_before_discount": -1,
+    "show_free_shipping": false,
+    "show_discount": 0,
+    "video_info_list": {},
+    "shop_location": "KOTA PEKANBARU",
+    "price_min_before_discount": -1,
+    "categories": [
+      {
+        "category_display_name": "Gaming & Konsol",
+        "category_id": 100634,
+        "is_default_subcat": false,
+        "no_sub": false,
+        "image": null
+      },
+      {
+        "category_display_name": "Konsol Game",
+        "category_id": 100695,
+        "is_default_subcat": false,
+        "no_sub": false,
+        "image": null
+      },
+      {
+        "category_display_name": "Playstation",
+        "category_id": 101073,
+        "is_default_subcat": false,
+        "no_sub": true,
+        "image": null
+      }
+    ],
+    "tier_variations": [
+      {
+        "options": [
+          "1B Ungu",
+          "2B Ungu",
+          "3B Ungu",
+          "4B Ungu",
+          "5B Ungu",
+          "6B Ungu",
+          "7B Ungu"
+        ],
+        "images": {},
+        "name": "Chip resmi MD",
+        "properties": {},
+        "type": 0
+      }
+    ],
+    "is_preferred_plus_seller": false,
+    "name": "Mainan HighS DONINO termurah",
+    "has_low_fulfillment_rate": false,
+    "current_promotion_reserved_stock": 0,
+    "estimated_days": 2,
+    "welcome_package_type": 0,
+    "image": "https:\/\/cf.shopee.co.id\/file\/983d88a6c31c00be404adab25cfcbb98",
+    "ctime": 1610948135,
+    "status": 1,
+    "sold": 3174,
+    "slash_lowest_price": null,
+    "show_official_shop_label_in_title": false,
+    "size_chart": null,
+    "is_non_cc_installment_payment_eligible": false,
+    "show_official_shop_label_in_normal_position": null,
+    "deep_discount": null,
+    "installment_plans": null,
+    "show_official_shop_label": false,
+    "shop_id": 66059111,
+    "upcoming_flash_sale": null,
+    "reference_item_id": "",
+    "makeup": null,
+    "flag": 131072,
+    "category_id": 100634,
+    "flash_sale": null,
+    "current_promotion_has_reserve_stock": false,
+    "exclusive_price_info": null,
+    "price": 70500,
+    "is_official_shop": false,
+    "label_ids": [
+      1003431,
+      1004684,
+      1004682,
+      1003106
+    ],
+    "is_group_buy_item": null,
+    "can_use_bundle_deal": false,
+    "cod_flag": 0,
+    "show_shopee_verified_label": false,
+    "hidden_price_display": null,
+    "is_partial_fulfilled": false,
+    "item_id": 7276944562,
+    "item_type": 0,
+    "bundle_deal_id": 0,
+    "view_count": 6221,
+    "item_status": "normal",
+    "bundle_deal_info": null,
+    "recommendation_info": null,
+    "badge_icon_type": 0
+  }
+}

@@ -1,0 +1,1 @@
+const CollectionModel = require('./collection')

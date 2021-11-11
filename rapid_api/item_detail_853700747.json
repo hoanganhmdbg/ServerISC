@@ -1,0 +1,1085 @@
+{
+    "status": 200,
+    "data": {
+        "is_cc_installment_payment_eligible": false,
+        "is_pre_order": false,
+        "discount": null,
+        "transparent_background_image": null,
+        "service_by_shopee_flag": null,
+        "welcome_package_info": null,
+        "images": [
+            "https:\/\/cf.shopee.co.id\/file\/ffe939094bea162095eb0d27bb76b21f",
+            "https:\/\/cf.shopee.co.id\/file\/c881c59ab0e53c28d32a345a2fa574ad",
+            "https:\/\/cf.shopee.co.id\/file\/ed7e30a7684565bcaf24961aa8d43b98",
+            "https:\/\/cf.shopee.co.id\/file\/446de7f8cb0e9126093e657e4597635b",
+            "https:\/\/cf.shopee.co.id\/file\/ec2f40a3ee0cf9eff544b6617daf122b",
+            "https:\/\/cf.shopee.co.id\/file\/ccb56e2c8ec39ddbcad68b8bf1f7a709",
+            "https:\/\/cf.shopee.co.id\/file\/7ee8e65508593bb985ee61ae504bcd82",
+            "https:\/\/cf.shopee.co.id\/file\/975609d2f3989c528de6443519f9c6a4",
+            "https:\/\/cf.shopee.co.id\/file\/6758d83af3a6d6f123d616d0ad4657a4"
+        ],
+        "is_slash_price_item": null,
+        "shopee_verified": true,
+        "preview_info": null,
+        "price_max": 2600000,
+        "wholesale_tier_list": {},
+        "historical_sold": 5305,
+        "attributes": [
+            {
+                "value": "Slim",
+                "id": 100561,
+                "is_pending_qc": false,
+                "is_timestamp": false,
+                "idx": 0,
+                "name": "Model PlayStation"
+            }
+        ],
+        "is_category_failed": false,
+        "has_group_buy_stock": false,
+        "item_rating": {
+            "rating_with_image": 1415,
+            "rating_with_context": 1814,
+            "rating_star": 4.835143,
+            "rating_5_star": 3123,
+            "rating_4_star": 390,
+            "rating_1_star": 17,
+            "rating_total": 3591,
+            "rating_3_star": 49,
+            "rating_2_star": 12
+        },
+        "has_lowest_price_guarantee": false,
+        "is_adult": false,
+        "group_buy_info": null,
+        "add_on_deal_info": null,
+        "brand": null,
+        "description": "selamat datang dan terima kasih anda telah melihat produk kami\n\norderan hari ini di kirim hari ini juga\nharga grosir dan bersaing\nbarang ready stok\n\nkami menawarkan produk terbaik \nSONY PS3 SLIM \nps3 versi 4.87\/4.88 OFW \/ HFW ( hybrid firmawe) \nsudah terinstal aplikasi MULTIMAN \npilih varian hardisk\n- 160gb 15 \n- 250gb 20 \n- 320gb 25 \n- 500gb 38 \n- 1000gb\/1tb 70an \n- 1500gb\/1.5tb 100 lebih game \n\nPES 2022 efoolball terbaru\n\nbisa main online\nbarang refurbies distributor\nsolusi buat usaha rental bisa main nonstop seharian\nps sudah ada ic system pendingin mesin\nsegel sony asli\ntersedia warna putih, harga sama dengan yg hitam\nklu mau putih , tulis di pesanan warna putih\n\ndengan perlengkapan sebagai berikut:\n- 1 unit ps3 slim 160gb , 250gb , 320gb dan 500gb\n- 2 unit stik \/ 1 unit stik ps3 wireless original packing\n    ( sesuai varian 1 stik atau 2 stik)\n- 1 unit kabel av multi ( buat tv tabung)\n- 1 unit kabel cas stik usb\n- 1 unit kabel power\n- 1 unit dus ps3 \nBONUS - HDMI high quality ( buat tv led)\n            \nvarian paket ps3\n- PS3 1,5tb + 2 stik\n- PS3 1tb +2stik\n- ps3 500gb + 2 stik\n- ps3 320gb + 2 stik\n- ps3 250gb + 2 stik\n- ps3 160gb + 2 stik\n- ps3 160gb + 1 stik\n- ps3 160gb tanpa stik\n- ps3 mesin aja ( tidak ada hardisk, tidak ada game dan tidak ada stik)\n\ngaransi 1bulan , tukar baru\nsegel jangan di bongkar atau di rusak\n\njangan ragu beli dengan kami karena :\n-orderan hari ini kami kirim hari ini juga\n- pengiriman cepat karena barang selalu ready stok\n- sebelum barang di kirim kami sudah cek kualitas barang di jamin bagus dan siap di kirim\n- barang di packing mengunakan babble wap supaya aman sampai tujuan\n- kirim belum sampai atau kelamaan, kami bisa bantu urus sampai selesai\n-gampang di ajak berdiskusi jika barang yang di terima bermasalah.\n\nkami selalu menjamin kualitas barang yang kami kirim oleh toko glodok online shop, karena seluruh barang telah melewati proses test kualitas serta mengunakan packing yang aman dari kerusakan selama prosespengiriman di ekpedisi\n\nterima kasih atas kunjungan anda\n\nbarang akan kami test bagus sebelum kirim kelangganan melalui ekpedisi\nuntuk langgsnan yang berada di luar kota atau daerah tidak perlu khawatir untuk barang yang akan kami kirim\nkarena kami sudah berpengalaman dalam sistem kirim barang keseluruh indonesia\nbarang akan kami packing rapi mengunakan dus dan di lapisin babble warp sehinggs terjamin aman dari kerusakan selama proses pengiriman melalui ekpedisi\n\nterima kasih atas kunjungan anda",
+        "normal_stock": 13107,
+        "hashtag_list": null,
+        "price_min": 375000,
+        "cb_option": 0,
+        "makeups": null,
+        "liked_count": 16637,
+        "coin_earn_label": null,
+        "shipping_icon_type": 0,
+        "can_use_wholesale": false,
+        "currency": "IDR",
+        "reason": null,
+        "models": [
+            {
+                "stock": 632,
+                "sold": 2842,
+                "model_id": 1312214357,
+                "extinfo": {
+                    "has_shopee_promo": null,
+                    "seller_promotion_refresh_time": 0,
+                    "group_buy_info": null,
+                    "seller_promotion_limit": null,
+                    "tier_index": [
+                        0
+                    ],
+                    "holiday_mode_old_stock": null
+                },
+                "name": "ps3 500gb + 2 stik",
+                "status": 1,
+                "current_promotion_has_reserve_stock": false,
+                "item_id": 853700747,
+                "price_stocks": [
+                    {
+                        "purchase_limit": 0,
+                        "end_time": null,
+                        "model_id": null,
+                        "shop_id": 18768496,
+                        "start_time": null,
+                        "stockout_time": 0,
+                        "promotion_type": 0,
+                        "item_id": 853700747,
+                        "stock": 632,
+                        "promotion_id": 0,
+                        "region": "ID",
+                        "rebate": 0,
+                        "stock_breakdown_by_location": {},
+                        "allocated_stock": 0,
+                        "price": 1875000
+                    }
+                ],
+                "promotion_id": 0,
+                "price_before_discount": 0,
+                "normal_stock": 632,
+                "currency": "IDR",
+                "current_promotion_reserved_stock": 0,
+                "price": 1875000
+            },
+            {
+                "stock": 889,
+                "sold": 475,
+                "model_id": 2523770826,
+                "extinfo": {
+                    "has_shopee_promo": null,
+                    "seller_promotion_refresh_time": 0,
+                    "group_buy_info": null,
+                    "seller_promotion_limit": null,
+                    "tier_index": [
+                        1
+                    ],
+                    "holiday_mode_old_stock": null
+                },
+                "name": "ps3 320gb + 2 stik",
+                "status": 1,
+                "current_promotion_has_reserve_stock": false,
+                "item_id": 853700747,
+                "price_stocks": [
+                    {
+                        "purchase_limit": 0,
+                        "end_time": null,
+                        "model_id": null,
+                        "shop_id": 18768496,
+                        "start_time": null,
+                        "stockout_time": 0,
+                        "promotion_type": 0,
+                        "item_id": 853700747,
+                        "stock": 889,
+                        "promotion_id": 0,
+                        "region": "ID",
+                        "rebate": 0,
+                        "stock_breakdown_by_location": {},
+                        "allocated_stock": 0,
+                        "price": 1825000
+                    }
+                ],
+                "promotion_id": 0,
+                "price_before_discount": 0,
+                "normal_stock": 889,
+                "currency": "IDR",
+                "current_promotion_reserved_stock": 0,
+                "price": 1825000
+            },
+            {
+                "stock": 704,
+                "sold": 599,
+                "model_id": 2523770827,
+                "extinfo": {
+                    "has_shopee_promo": null,
+                    "seller_promotion_refresh_time": 0,
+                    "group_buy_info": null,
+                    "seller_promotion_limit": null,
+                    "tier_index": [
+                        2
+                    ],
+                    "holiday_mode_old_stock": null
+                },
+                "name": "ps3 250gb + 2 stik",
+                "status": 1,
+                "current_promotion_has_reserve_stock": false,
+                "item_id": 853700747,
+                "price_stocks": [
+                    {
+                        "purchase_limit": 0,
+                        "end_time": null,
+                        "model_id": null,
+                        "shop_id": 18768496,
+                        "start_time": null,
+                        "stockout_time": 0,
+                        "promotion_type": 0,
+                        "item_id": 853700747,
+                        "stock": 704,
+                        "promotion_id": 0,
+                        "region": "ID",
+                        "rebate": 0,
+                        "stock_breakdown_by_location": {},
+                        "allocated_stock": 0,
+                        "price": 1800000
+                    }
+                ],
+                "promotion_id": 0,
+                "price_before_discount": 0,
+                "normal_stock": 704,
+                "currency": "IDR",
+                "current_promotion_reserved_stock": 0,
+                "price": 1800000
+            },
+            {
+                "stock": 860,
+                "sold": 603,
+                "model_id": 2523770828,
+                "extinfo": {
+                    "has_shopee_promo": null,
+                    "seller_promotion_refresh_time": 0,
+                    "group_buy_info": null,
+                    "seller_promotion_limit": null,
+                    "tier_index": [
+                        3
+                    ],
+                    "holiday_mode_old_stock": null
+                },
+                "name": "ps3 160gb + 2 stik",
+                "status": 1,
+                "current_promotion_has_reserve_stock": false,
+                "item_id": 853700747,
+                "price_stocks": [
+                    {
+                        "purchase_limit": 0,
+                        "end_time": null,
+                        "model_id": null,
+                        "shop_id": 18768496,
+                        "start_time": null,
+                        "stockout_time": 0,
+                        "promotion_type": 0,
+                        "item_id": 853700747,
+                        "stock": 860,
+                        "promotion_id": 0,
+                        "region": "ID",
+                        "rebate": 0,
+                        "stock_breakdown_by_location": {},
+                        "allocated_stock": 0,
+                        "price": 1725000
+                    }
+                ],
+                "promotion_id": 0,
+                "price_before_discount": 0,
+                "normal_stock": 860,
+                "currency": "IDR",
+                "current_promotion_reserved_stock": 0,
+                "price": 1725000
+            },
+            {
+                "stock": 553,
+                "sold": 130,
+                "model_id": 3081491467,
+                "extinfo": {
+                    "has_shopee_promo": null,
+                    "seller_promotion_refresh_time": 0,
+                    "group_buy_info": null,
+                    "seller_promotion_limit": null,
+                    "tier_index": [
+                        4
+                    ],
+                    "holiday_mode_old_stock": null
+                },
+                "name": "ps3 160gb + 1 stik",
+                "status": 1,
+                "current_promotion_has_reserve_stock": false,
+                "item_id": 853700747,
+                "price_stocks": [
+                    {
+                        "purchase_limit": 0,
+                        "end_time": null,
+                        "model_id": null,
+                        "shop_id": 18768496,
+                        "start_time": null,
+                        "stockout_time": 0,
+                        "promotion_type": 0,
+                        "item_id": 853700747,
+                        "stock": 553,
+                        "promotion_id": 0,
+                        "region": "ID",
+                        "rebate": 0,
+                        "stock_breakdown_by_location": {},
+                        "allocated_stock": 0,
+                        "price": 1675000
+                    }
+                ],
+                "promotion_id": 0,
+                "price_before_discount": 0,
+                "normal_stock": 553,
+                "currency": "IDR",
+                "current_promotion_reserved_stock": 0,
+                "price": 1675000
+            },
+            {
+                "stock": 671,
+                "sold": 47,
+                "model_id": 4037822340,
+                "extinfo": {
+                    "has_shopee_promo": null,
+                    "seller_promotion_refresh_time": 0,
+                    "group_buy_info": null,
+                    "seller_promotion_limit": null,
+                    "tier_index": [
+                        5
+                    ],
+                    "holiday_mode_old_stock": null
+                },
+                "name": "Ps3 160gb tanpa stik",
+                "status": 1,
+                "current_promotion_has_reserve_stock": false,
+                "item_id": 853700747,
+                "price_stocks": [
+                    {
+                        "purchase_limit": null,
+                        "end_time": null,
+                        "model_id": null,
+                        "shop_id": 18768496,
+                        "start_time": null,
+                        "stockout_time": 0,
+                        "promotion_type": 0,
+                        "item_id": 853700747,
+                        "stock": 671,
+                        "promotion_id": 0,
+                        "region": "ID",
+                        "rebate": null,
+                        "stock_breakdown_by_location": {},
+                        "allocated_stock": 0,
+                        "price": 1625000
+                    }
+                ],
+                "promotion_id": 0,
+                "price_before_discount": 0,
+                "normal_stock": 671,
+                "currency": "IDR",
+                "current_promotion_reserved_stock": 0,
+                "price": 1625000
+            },
+            {
+                "stock": 781,
+                "sold": 37,
+                "model_id": 7289437315,
+                "extinfo": {
+                    "has_shopee_promo": null,
+                    "seller_promotion_refresh_time": 0,
+                    "group_buy_info": null,
+                    "seller_promotion_limit": null,
+                    "tier_index": [
+                        6
+                    ],
+                    "holiday_mode_old_stock": null
+                },
+                "name": "Ps3 250gb +1stik",
+                "status": 1,
+                "current_promotion_has_reserve_stock": false,
+                "item_id": 853700747,
+                "price_stocks": [
+                    {
+                        "purchase_limit": null,
+                        "end_time": null,
+                        "model_id": null,
+                        "shop_id": 18768496,
+                        "start_time": null,
+                        "stockout_time": null,
+                        "promotion_type": 0,
+                        "item_id": 853700747,
+                        "stock": 781,
+                        "promotion_id": 0,
+                        "region": "ID",
+                        "rebate": null,
+                        "stock_breakdown_by_location": {},
+                        "allocated_stock": null,
+                        "price": 1750000
+                    }
+                ],
+                "promotion_id": 0,
+                "price_before_discount": 0,
+                "normal_stock": 781,
+                "currency": "IDR",
+                "current_promotion_reserved_stock": 0,
+                "price": 1750000
+            },
+            {
+                "stock": 650,
+                "sold": 10,
+                "model_id": 24908297674,
+                "extinfo": {
+                    "has_shopee_promo": null,
+                    "seller_promotion_refresh_time": 0,
+                    "group_buy_info": null,
+                    "seller_promotion_limit": null,
+                    "tier_index": [
+                        13
+                    ],
+                    "holiday_mode_old_stock": null
+                },
+                "name": "Ps3 1000gb\/1tb+1stik",
+                "status": 1,
+                "current_promotion_has_reserve_stock": false,
+                "item_id": 853700747,
+                "price_stocks": [
+                    {
+                        "purchase_limit": null,
+                        "end_time": null,
+                        "model_id": null,
+                        "shop_id": 18768496,
+                        "start_time": null,
+                        "stockout_time": null,
+                        "promotion_type": 0,
+                        "item_id": 853700747,
+                        "stock": 650,
+                        "promotion_id": 0,
+                        "region": "ID",
+                        "rebate": null,
+                        "stock_breakdown_by_location": {},
+                        "allocated_stock": null,
+                        "price": 2330000
+                    }
+                ],
+                "promotion_id": 0,
+                "price_before_discount": 0,
+                "normal_stock": 650,
+                "currency": "IDR",
+                "current_promotion_reserved_stock": 0,
+                "price": 2330000
+            },
+            {
+                "stock": 975,
+                "sold": 22,
+                "model_id": 30386056414,
+                "extinfo": {
+                    "has_shopee_promo": null,
+                    "seller_promotion_refresh_time": 0,
+                    "group_buy_info": null,
+                    "seller_promotion_limit": null,
+                    "tier_index": [
+                        8
+                    ],
+                    "holiday_mode_old_stock": null
+                },
+                "name": "Ps3 500gb tanpa stik",
+                "status": 1,
+                "current_promotion_has_reserve_stock": false,
+                "item_id": 853700747,
+                "price_stocks": [
+                    {
+                        "purchase_limit": null,
+                        "end_time": null,
+                        "model_id": null,
+                        "shop_id": 18768496,
+                        "start_time": null,
+                        "stockout_time": null,
+                        "promotion_type": 0,
+                        "item_id": 853700747,
+                        "stock": 975,
+                        "promotion_id": 0,
+                        "region": "ID",
+                        "rebate": null,
+                        "stock_breakdown_by_location": {},
+                        "allocated_stock": null,
+                        "price": 1785000
+                    }
+                ],
+                "promotion_id": 0,
+                "price_before_discount": 0,
+                "normal_stock": 975,
+                "currency": "IDR",
+                "current_promotion_reserved_stock": 0,
+                "price": 1785000
+            },
+            {
+                "stock": 871,
+                "sold": 11,
+                "model_id": 30386056415,
+                "extinfo": {
+                    "has_shopee_promo": null,
+                    "seller_promotion_refresh_time": 0,
+                    "group_buy_info": null,
+                    "seller_promotion_limit": null,
+                    "tier_index": [
+                        9
+                    ],
+                    "holiday_mode_old_stock": null
+                },
+                "name": "Ps3 320gb tanpa stik",
+                "status": 1,
+                "current_promotion_has_reserve_stock": false,
+                "item_id": 853700747,
+                "price_stocks": [
+                    {
+                        "purchase_limit": null,
+                        "end_time": null,
+                        "model_id": null,
+                        "shop_id": 18768496,
+                        "start_time": null,
+                        "stockout_time": null,
+                        "promotion_type": 0,
+                        "item_id": 853700747,
+                        "stock": 871,
+                        "promotion_id": 0,
+                        "region": "ID",
+                        "rebate": null,
+                        "stock_breakdown_by_location": {},
+                        "allocated_stock": null,
+                        "price": 1725000
+                    }
+                ],
+                "promotion_id": 0,
+                "price_before_discount": 0,
+                "normal_stock": 871,
+                "currency": "IDR",
+                "current_promotion_reserved_stock": 0,
+                "price": 1725000
+            },
+            {
+                "stock": 967,
+                "sold": 9,
+                "model_id": 30386056416,
+                "extinfo": {
+                    "has_shopee_promo": null,
+                    "seller_promotion_refresh_time": 0,
+                    "group_buy_info": null,
+                    "seller_promotion_limit": null,
+                    "tier_index": [
+                        10
+                    ],
+                    "holiday_mode_old_stock": null
+                },
+                "name": "Ps3 250gb tanpa stik",
+                "status": 1,
+                "current_promotion_has_reserve_stock": false,
+                "item_id": 853700747,
+                "price_stocks": [
+                    {
+                        "purchase_limit": null,
+                        "end_time": null,
+                        "model_id": null,
+                        "shop_id": 18768496,
+                        "start_time": null,
+                        "stockout_time": null,
+                        "promotion_type": 0,
+                        "item_id": 853700747,
+                        "stock": 967,
+                        "promotion_id": 0,
+                        "region": "ID",
+                        "rebate": null,
+                        "stock_breakdown_by_location": {},
+                        "allocated_stock": null,
+                        "price": 1700000
+                    }
+                ],
+                "promotion_id": 0,
+                "price_before_discount": 0,
+                "normal_stock": 967,
+                "currency": "IDR",
+                "current_promotion_reserved_stock": 0,
+                "price": 1700000
+            },
+            {
+                "stock": 974,
+                "sold": 15,
+                "model_id": 30386056418,
+                "extinfo": {
+                    "has_shopee_promo": null,
+                    "seller_promotion_refresh_time": 0,
+                    "group_buy_info": null,
+                    "seller_promotion_limit": null,
+                    "tier_index": [
+                        11
+                    ],
+                    "holiday_mode_old_stock": null
+                },
+                "name": "Ps3 320gb +1stik",
+                "status": 1,
+                "current_promotion_has_reserve_stock": false,
+                "item_id": 853700747,
+                "price_stocks": [
+                    {
+                        "purchase_limit": null,
+                        "end_time": null,
+                        "model_id": null,
+                        "shop_id": 18768496,
+                        "start_time": null,
+                        "stockout_time": null,
+                        "promotion_type": 0,
+                        "item_id": 853700747,
+                        "stock": 974,
+                        "promotion_id": 0,
+                        "region": "ID",
+                        "rebate": null,
+                        "stock_breakdown_by_location": {},
+                        "allocated_stock": null,
+                        "price": 1775000
+                    }
+                ],
+                "promotion_id": 0,
+                "price_before_discount": 0,
+                "normal_stock": 974,
+                "currency": "IDR",
+                "current_promotion_reserved_stock": 0,
+                "price": 1775000
+            },
+            {
+                "stock": 3,
+                "sold": 0,
+                "model_id": 35157900887,
+                "extinfo": {
+                    "has_shopee_promo": null,
+                    "seller_promotion_refresh_time": 0,
+                    "group_buy_info": null,
+                    "seller_promotion_limit": null,
+                    "tier_index": [
+                        15
+                    ],
+                    "holiday_mode_old_stock": null
+                },
+                "name": "Motherboard (MB)",
+                "status": 1,
+                "current_promotion_has_reserve_stock": false,
+                "item_id": 853700747,
+                "price_stocks": [
+                    {
+                        "purchase_limit": null,
+                        "end_time": null,
+                        "model_id": null,
+                        "shop_id": 18768496,
+                        "start_time": null,
+                        "stockout_time": 0,
+                        "promotion_type": 0,
+                        "item_id": 853700747,
+                        "stock": 3,
+                        "promotion_id": 0,
+                        "region": "ID",
+                        "rebate": null,
+                        "stock_breakdown_by_location": {},
+                        "allocated_stock": null,
+                        "price": 375000
+                    }
+                ],
+                "promotion_id": 0,
+                "price_before_discount": 0,
+                "normal_stock": 3,
+                "currency": "IDR",
+                "current_promotion_reserved_stock": 0,
+                "price": 375000
+            },
+            {
+                "stock": 869,
+                "sold": 78,
+                "model_id": 40244910787,
+                "extinfo": {
+                    "has_shopee_promo": null,
+                    "seller_promotion_refresh_time": 0,
+                    "group_buy_info": null,
+                    "seller_promotion_limit": null,
+                    "tier_index": [
+                        7
+                    ],
+                    "holiday_mode_old_stock": null
+                },
+                "name": "Ps3 500gb +1stik",
+                "status": 1,
+                "current_promotion_has_reserve_stock": false,
+                "item_id": 853700747,
+                "price_stocks": [
+                    {
+                        "purchase_limit": null,
+                        "end_time": null,
+                        "model_id": null,
+                        "shop_id": 18768496,
+                        "start_time": null,
+                        "stockout_time": null,
+                        "promotion_type": 0,
+                        "item_id": 853700747,
+                        "stock": 869,
+                        "promotion_id": 0,
+                        "region": "ID",
+                        "rebate": null,
+                        "stock_breakdown_by_location": {},
+                        "allocated_stock": null,
+                        "price": 1830000
+                    }
+                ],
+                "promotion_id": 0,
+                "price_before_discount": 0,
+                "normal_stock": 869,
+                "currency": "IDR",
+                "current_promotion_reserved_stock": 0,
+                "price": 1830000
+            },
+            {
+                "stock": 882,
+                "sold": 412,
+                "model_id": 50698823382,
+                "extinfo": {
+                    "has_shopee_promo": null,
+                    "seller_promotion_refresh_time": 0,
+                    "group_buy_info": null,
+                    "seller_promotion_limit": null,
+                    "tier_index": [
+                        12
+                    ],
+                    "holiday_mode_old_stock": null
+                },
+                "name": "Ps3 1000gb\/1TB+2stik",
+                "status": 1,
+                "current_promotion_has_reserve_stock": false,
+                "item_id": 853700747,
+                "price_stocks": [
+                    {
+                        "purchase_limit": null,
+                        "end_time": null,
+                        "model_id": null,
+                        "shop_id": 18768496,
+                        "start_time": null,
+                        "stockout_time": null,
+                        "promotion_type": 0,
+                        "item_id": 853700747,
+                        "stock": 882,
+                        "promotion_id": 0,
+                        "region": "ID",
+                        "rebate": null,
+                        "stock_breakdown_by_location": {},
+                        "allocated_stock": null,
+                        "price": 2380000
+                    }
+                ],
+                "promotion_id": 0,
+                "price_before_discount": 0,
+                "normal_stock": 882,
+                "currency": "IDR",
+                "current_promotion_reserved_stock": 0,
+                "price": 2380000
+            },
+            {
+                "stock": 398,
+                "sold": 2,
+                "model_id": 74344504656,
+                "extinfo": {
+                    "has_shopee_promo": null,
+                    "seller_promotion_refresh_time": 0,
+                    "group_buy_info": null,
+                    "seller_promotion_limit": null,
+                    "tier_index": [
+                        14
+                    ],
+                    "holiday_mode_old_stock": null
+                },
+                "name": "Ps3 1tb tanpa stik",
+                "status": 1,
+                "current_promotion_has_reserve_stock": false,
+                "item_id": 853700747,
+                "price_stocks": [
+                    {
+                        "purchase_limit": null,
+                        "end_time": null,
+                        "model_id": null,
+                        "shop_id": 18768496,
+                        "start_time": null,
+                        "stockout_time": null,
+                        "promotion_type": 0,
+                        "item_id": 853700747,
+                        "stock": 398,
+                        "promotion_id": 0,
+                        "region": "ID",
+                        "rebate": null,
+                        "stock_breakdown_by_location": {},
+                        "allocated_stock": null,
+                        "price": 2285000
+                    }
+                ],
+                "promotion_id": 0,
+                "price_before_discount": 0,
+                "normal_stock": 398,
+                "currency": "IDR",
+                "current_promotion_reserved_stock": 0,
+                "price": 2285000
+            },
+            {
+                "stock": 685,
+                "sold": 0,
+                "model_id": 113423714809,
+                "extinfo": {
+                    "has_shopee_promo": null,
+                    "seller_promotion_refresh_time": 0,
+                    "group_buy_info": null,
+                    "seller_promotion_limit": null,
+                    "tier_index": [
+                        17
+                    ],
+                    "holiday_mode_old_stock": null
+                },
+                "name": "PS3 1500gb +1stik",
+                "status": 1,
+                "current_promotion_has_reserve_stock": false,
+                "item_id": 853700747,
+                "price_stocks": [
+                    {
+                        "purchase_limit": null,
+                        "end_time": null,
+                        "model_id": null,
+                        "shop_id": 18768496,
+                        "start_time": null,
+                        "stockout_time": null,
+                        "promotion_type": 0,
+                        "item_id": 853700747,
+                        "stock": 685,
+                        "promotion_id": 0,
+                        "region": "ID",
+                        "rebate": null,
+                        "stock_breakdown_by_location": {},
+                        "allocated_stock": null,
+                        "price": 2550000
+                    }
+                ],
+                "promotion_id": 0,
+                "price_before_discount": 0,
+                "normal_stock": 685,
+                "currency": "IDR",
+                "current_promotion_reserved_stock": 0,
+                "price": 2550000
+            },
+            {
+                "stock": 398,
+                "sold": 0,
+                "model_id": 121673082221,
+                "extinfo": {
+                    "has_shopee_promo": null,
+                    "seller_promotion_refresh_time": 0,
+                    "group_buy_info": null,
+                    "seller_promotion_limit": null,
+                    "tier_index": [
+                        18
+                    ],
+                    "holiday_mode_old_stock": null
+                },
+                "name": "PS3 1500gb tnpa stik",
+                "status": 1,
+                "current_promotion_has_reserve_stock": false,
+                "item_id": 853700747,
+                "price_stocks": [
+                    {
+                        "purchase_limit": null,
+                        "end_time": null,
+                        "model_id": null,
+                        "shop_id": 18768496,
+                        "start_time": null,
+                        "stockout_time": null,
+                        "promotion_type": 0,
+                        "item_id": 853700747,
+                        "stock": 398,
+                        "promotion_id": 0,
+                        "region": "ID",
+                        "rebate": null,
+                        "stock_breakdown_by_location": {},
+                        "allocated_stock": null,
+                        "price": 2500000
+                    }
+                ],
+                "promotion_id": 0,
+                "price_before_discount": 0,
+                "normal_stock": 398,
+                "currency": "IDR",
+                "current_promotion_reserved_stock": 0,
+                "price": 2500000
+            },
+            {
+                "stock": 345,
+                "sold": 3,
+                "model_id": 121673082222,
+                "extinfo": {
+                    "has_shopee_promo": null,
+                    "seller_promotion_refresh_time": 0,
+                    "group_buy_info": null,
+                    "seller_promotion_limit": null,
+                    "tier_index": [
+                        16
+                    ],
+                    "holiday_mode_old_stock": null
+                },
+                "name": "PS3 1500gb +2stik",
+                "status": 1,
+                "current_promotion_has_reserve_stock": false,
+                "item_id": 853700747,
+                "price_stocks": [
+                    {
+                        "purchase_limit": null,
+                        "end_time": null,
+                        "model_id": null,
+                        "shop_id": 18768496,
+                        "start_time": null,
+                        "stockout_time": null,
+                        "promotion_type": 0,
+                        "item_id": 853700747,
+                        "stock": 345,
+                        "promotion_id": 0,
+                        "region": "ID",
+                        "rebate": null,
+                        "stock_breakdown_by_location": {},
+                        "allocated_stock": null,
+                        "price": 2600000
+                    }
+                ],
+                "promotion_id": 0,
+                "price_before_discount": 0,
+                "normal_stock": 345,
+                "currency": "IDR",
+                "current_promotion_reserved_stock": 0,
+                "price": 2600000
+            }
+        ],
+        "coin_info": {
+            "spend_cash_unit": 1,
+            "coin_earn_items": {}
+        },
+        "price_before_discount": 0,
+        "raw_discount": 0,
+        "stock": 13107,
+        "condition": 1,
+        "cmt_count": 3591,
+        "price_max_before_discount": -1,
+        "show_free_shipping": true,
+        "show_discount": 0,
+        "video_info_list": {},
+        "shop_location": "KOTA JAKARTA BARAT",
+        "price_min_before_discount": -1,
+        "categories": [
+            {
+                "category_display_name": "Gaming & Konsol",
+                "category_id": 100634,
+                "is_default_subcat": false,
+                "no_sub": false,
+                "image": null
+            },
+            {
+                "category_display_name": "Konsol Game",
+                "category_id": 100695,
+                "is_default_subcat": false,
+                "no_sub": false,
+                "image": null
+            },
+            {
+                "category_display_name": "Playstation",
+                "category_id": 101073,
+                "is_default_subcat": false,
+                "no_sub": true,
+                "image": null
+            }
+        ],
+        "tier_variations": [
+            {
+                "options": [
+                    "ps3 500gb + 2 stik",
+                    "ps3 320gb + 2 stik",
+                    "ps3 250gb + 2 stik",
+                    "ps3 160gb + 2 stik",
+                    "ps3 160gb + 1 stik",
+                    "Ps3 160gb tanpa stik",
+                    "Ps3 250gb +1stik",
+                    "Ps3 500gb +1stik",
+                    "Ps3 500gb tanpa stik",
+                    "Ps3 320gb tanpa stik",
+                    "Ps3 250gb tanpa stik",
+                    "Ps3 320gb +1stik",
+                    "Ps3 1000gb\/1TB+2stik",
+                    "Ps3 1000gb\/1tb+1stik",
+                    "Ps3 1tb tanpa stik",
+                    "Motherboard (MB)",
+                    "PS3 1500gb +2stik",
+                    "PS3 1500gb +1stik",
+                    "PS3 1500gb tnpa stik"
+                ],
+                "images": {},
+                "name": "Variasi",
+                "properties": {},
+                "type": 0
+            }
+        ],
+        "is_preferred_plus_seller": false,
+        "name": "PS3 PLAYSTASION3 SLIM HDD 1500gb\/1.5tb,1000gb\/1TB \/500gb\/320gb\/250gb\/160gb ofw\/cfw\/hfw hardisk internal",
+        "has_low_fulfillment_rate": false,
+        "current_promotion_reserved_stock": 0,
+        "estimated_days": 2,
+        "welcome_package_type": 0,
+        "image": "https:\/\/cf.shopee.co.id\/file\/ffe939094bea162095eb0d27bb76b21f",
+        "ctime": 1516519412,
+        "status": 1,
+        "sold": 291,
+        "slash_lowest_price": null,
+        "show_official_shop_label_in_title": false,
+        "size_chart": null,
+        "is_non_cc_installment_payment_eligible": false,
+        "show_official_shop_label_in_normal_position": null,
+        "deep_discount": null,
+        "installment_plans": null,
+        "show_official_shop_label": false,
+        "shop_id": 18768496,
+        "upcoming_flash_sale": null,
+        "reference_item_id": "",
+        "makeup": null,
+        "flag": 983042,
+        "category_id": 100634,
+        "flash_sale": null,
+        "current_promotion_has_reserve_stock": false,
+        "exclusive_price_info": null,
+        "price": 375000,
+        "is_official_shop": false,
+        "label_ids": [
+            1000167,
+            1000544,
+            1000246,
+            1001657,
+            1001623,
+            1001620,
+            1001633,
+            1002347,
+            1002401,
+            1002530,
+            1002503,
+            1005413,
+            1005617,
+            1005775,
+            1005896,
+            1006131,
+            1006309,
+            1006456,
+            1006685,
+            1006732,
+            1006910,
+            1007186,
+            1007440,
+            1007598,
+            1007970,
+            1008208,
+            1009991,
+            1009993,
+            1009994,
+            1009995,
+            1009997,
+            1009998,
+            1000006,
+            1000022,
+            1000071,
+            1000091,
+            1000245,
+            1000247,
+            1000375,
+            1000516,
+            1000629,
+            1000630,
+            1000734,
+            1001024,
+            1001036,
+            18,
+            25,
+            30,
+            71,
+            74,
+            1001375,
+            1001372,
+            22,
+            1004684,
+            1004682,
+            1003100,
+            1006884,
+            1007864,
+            1008291,
+            1008480,
+            1009519,
+            1009449,
+            1010001,
+            1010004,
+            1006900,
+            1010075,
+            1007093
+        ],
+        "is_group_buy_item": null,
+        "can_use_bundle_deal": false,
+        "cod_flag": 1,
+        "show_shopee_verified_label": true,
+        "hidden_price_display": null,
+        "is_partial_fulfilled": false,
+        "item_id": 853700747,
+        "item_type": 0,
+        "bundle_deal_id": 0,
+        "view_count": 148495,
+        "item_status": "normal",
+        "bundle_deal_info": null,
+        "recommendation_info": null,
+        "badge_icon_type": 0
+    }
+}
